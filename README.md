@@ -39,6 +39,19 @@ Input Form: <br/>
 <br />
 <br />
 
+<p align="center">
+Input Form: <br/>
+<img src="https://github.com/SaliKangwa/Service-Contract/blob/main/sr%20form%204.png" height="80%" width="80%" alt="Input Form"/>
+<br />
+<br />
+
+
+<p align="center">
+Input Form: <br/>
+<img src="https://github.com/SaliKangwa/Service-Contract/blob/main/sr%20form%205.png" height="80%" width="80%" alt="Input Form"/>
+<br />
+<br />
+
 
 
 <!--
