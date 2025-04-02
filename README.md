@@ -34,32 +34,24 @@ This project aimed to automate the Request for Service process and enhance Contr
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Input Form: <br/>
+This image displays the fields and information captured when raising tender requests for service contracts. The Currency field dynamically pulls currencies used by the company from the ERP system. All currencies are automatically converted to a standardized currency (USD) to facilitate approval workflows based on the cost thresholds and designated approvers. <br/>
 <img src="https://github.com/SaliKangwa/Service-Contract/blob/main/SR%20Form.png" height="80%" width="80%" alt="Input Form"/>
 <br />
 <br />
 
 <p align="center">
-Input Form: <br/>
+This image shows the data captured for contract renewal requests, with a focus on the Contract Number of the expired contract. Upon approval, the new contract is systematically linked to the expired one using this contract number. The Currency field similarly pulls available currencies from the company’s ERP system, converting them to USD to standardize the approval workflow based on cost and assigned approval limits. <br/>
 <img src="https://github.com/SaliKangwa/Service-Contract/blob/main/sr%20form%204.png" height="80%" width="80%" alt="Input Form"/>
 <br />
 <br />
 
 
 <p align="center">
-Input Form: <br/>
+This image presents the data captured when processing Single Source Procurement requests. It includes key details required for justification, approval, and tracking of such procurement activities. <br/>
 <img src="https://github.com/SaliKangwa/Service-Contract/blob/main/sr%20form%205.png" height="80%" width="80%" alt="Input Form"/>
 <br />
 <br />
 
 
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
