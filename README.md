@@ -18,11 +18,16 @@ This project aimed to automate the Request for Service process and enhance Contr
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/a/X5ho8nJ" height="80%" width="80%" alt="Input Form"/>
+Input Form: <br/>
+<img src="https://github.com/SaliKangwa/Service-Contract/blob/main/SR%20Form.png" height="80%" width="80%" alt="Input Form"/>
 <br />
 <br />
 
+<p align="center">
+Input Form: <br/>
+<img src="https://github.com/SaliKangwa/Service-Contract/blob/main/SR%20Form.png" height="80%" width="80%" alt="Input Form"/>
+<br />
+<br />
 
 <!--
  ```diff
