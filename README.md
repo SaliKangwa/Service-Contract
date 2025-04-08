@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project aimed to automate the Request for Service process and enhance Contract Management workflows. It involvs developing a digital request system to replace manual approvals and integrating automated workflows for streamlined approvals and notifications. Additionally, a centralized contract register has been implemented to improve data accuracy, track contracts efficiently, and eliminate redundant data entry.
+This project focused on automating the Request for Service (RFS) process and optimizing Contract Management workflows. It involved the development of a digital RFS system to replace manual approvals, coupled with the integration of automated workflows to streamline approval processes and notification mechanisms. Additionally, a centralized contract register was implemented to enhance data accuracy, improve contract tracking, and eliminate redundant data entry.
 <br />
 
 
